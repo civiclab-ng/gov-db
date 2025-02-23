@@ -8,6 +8,6 @@ An open-source government data platform for mapping public officials, policies, 
  - 📜 Policy tracking to connect issues with responsible authorities.
  - ⚡ Open data initiative for researchers, journalists, and civic tech developers.
 
-This repository is part of Open Gov Lab NG, a collective dedicated to open government and civic projects. 🚀
+This repository is part of Civic Lab NG, a collective dedicated to open government and civic projects. 🚀
 
 💡 Join the Collective → We welcome contributors who share a passion for civic hacking, data transparency, and government accountability. Fork the repo, send PRs, or start a discussion! 🚀
