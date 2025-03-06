@@ -1,0 +1,29 @@
+{
+  "name": "gov-db",
+  "version": "1.0.0",
+  "description": "An open-source government data platform for tracking and mapping public officials, policies, and the workings of the govt system from the grassroots level to the highest levels in Nigeria. This project aims to improve transparency, accessibility, and civic engagement by providing a structured, searchable database of government functions, officials, and policies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civiclab-ng/gov-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/civiclab-ng/gov-db/issues"
+  },
+  "homepage": "https://github.com/civiclab-ng/gov-db#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

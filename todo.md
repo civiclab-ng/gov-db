@@ -1,0 +1,2 @@
+- [ ] setup file and folder structure for the project
+- [ ] initialize db for the project
